@@ -1,0 +1,17 @@
+Document Title,Doc Type,Module,Document ID,Doc Type Meaning
+Global Technical Policy,POL,CORE,IDBX-POL-CORE-v1-2025.0,"Policy – defines official standards, practices, and rules."
+Technology Manifesto,MAN,CORE,IDBX-MAN-CORE-v1-2025.0,Manifesto – visionary statement of principles and technical philosophy.
+AIDANN Technical White Paper,WHP,AIDANN,IDBX-WHP-AIDANN-v1-2025.0,White Paper – high-level explanatory document for complex systems or technology.
+AI Risk & Governance Framework,POL,AI,IDBX-POL-AI-v1-2025.0,"Policy – defines official standards, practices, and rules."
+AI Ethics & Compliance Policy,POL,AI,IDBX-POL-AI-v1-2025.0,"Policy – defines official standards, practices, and rules."
+IDBX Trading Platform System Specification,SPEC,TRADE,IDBX-SPEC-TRADE-v1-2025.0,Specification – technical details about system components or interfaces.
+API & Integration Suite,SPEC,API,IDBX-SPEC-API-v1-2025.0,Specification – technical details about system components or interfaces.
+Trade Lifecycle Management Policy,POL,TRADE,IDBX-POL-TRADE-v1-2025.0,"Policy – defines official standards, practices, and rules."
+Data Governance & Privacy Framework,POL,DATA,IDBX-POL-DATA-v1-2025.0,"Policy – defines official standards, practices, and rules."
+Cybersecurity Incident Response Plan,PLAN,SEC,IDBX-PLAN-SEC-v1-2025.0,"Plan – strategic or operational roadmap (e.g., disaster recovery, vendor risk)."
+Business Continuity & Disaster Recovery Plan,PLAN,CORE,IDBX-PLAN-CORE-v1-2025.0,"Plan – strategic or operational roadmap (e.g., disaster recovery, vendor risk)."
+Third-Party AI Vendor Risk Policy,POL,AI,IDBX-POL-AI-v1-2025.0,"Policy – defines official standards, practices, and rules."
+AI Compliance Register,POL,AI,IDBX-POL-AI-v1-2025.0,"Policy – defines official standards, practices, and rules."
+Regulatory Mapping Matrix,SPEC,CORE,IDBX-SPEC-CORE-v1-2025.0,Specification – technical details about system components or interfaces.
+Data Localization & Cross-Border Transfer Policy,POL,DATA,IDBX-POL-DATA-v1-2025.0,"Policy – defines official standards, practices, and rules."
+AI-Driven Infrastructure Blueprint,SPEC,CORE,IDBX-SPEC-CORE-v1-2025.0,Specification – technical details about system components or interfaces.
