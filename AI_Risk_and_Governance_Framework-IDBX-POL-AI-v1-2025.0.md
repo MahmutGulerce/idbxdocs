@@ -55,7 +55,13 @@ AI systems are classified based on impact and regulatory exposure:
 | Medium     | Operational disruptions                    | Internal predictive analytics, sentiment tools|
 | Low        | Minimal impact                             | UI personalization, content recommendations   |
 
-Each class dictates the level of control, explainability, and review required.
+```mermaid
+graph TD
+    A[Is the AI involved in decision-making?] -->|Yes| B[Does it impact trading, compliance, or user outcomes?]
+    B -->|Yes| C[Classify as High-Risk AI]
+    B -->|No| D[Classify as Medium-Risk AI]
+    A -->|No| E[Classify as Low-Risk AI]
+```
 
 ---
 
@@ -79,6 +85,18 @@ Each class dictates the level of control, explainability, and review required.
 - Real-time drift detection and alerting
 - Model performance dashboard (accuracy, false positives, latency)
 - Periodic revalidation every 6–12 months
+
+```mermaid
+flowchart TD
+    A[Idea / Business Case] --> B[Model Development]
+    B --> C[Model Validation & Stress Testing]
+    C --> D[Ethical & Bias Review]
+    D --> E[Approval by AI Oversight Committee]
+    E --> F[Controlled Deployment]
+    F --> G[Real-Time Monitoring]
+    G --> H[Drift Detection / Performance Checks]
+    H --> I[Retraining or Retirement]
+```
 
 ---
 
@@ -109,6 +127,16 @@ Each class dictates the level of control, explainability, and review required.
 - Bias mitigation through reweighting, sampling, or algorithmic adjustments
 - All fairness issues must be remediated before deployment or retraining
 
+```mermaid
+flowchart TD
+    A[Data Audit for Bias] --> B[Fairness Metrics Evaluation]
+    B --> C{Bias Detected?}
+    C -->|Yes| D[Apply Mitigation (e.g. Reweight, Sample, Adjust)]
+    D --> E[Retest Model]
+    C -->|No| F[Proceed to Deployment]
+    E --> F
+```
+
 ---
 
 ## 9. Risk Mitigation Controls
@@ -117,6 +145,16 @@ Each class dictates the level of control, explainability, and review required.
 - **Kill Switches**: Immediate deactivation of any model in violation of performance or ethical standards
 - **Incident Response**: AI incidents follow IDBX-PLAN-SEC procedures with forensics and remediation review
 
+```mermaid
+flowchart TD
+    A[Anomaly or Incident Detected] --> B[Initial Risk Classification]
+    B --> C[Kill Switch or Containment if High-Risk]
+    C --> D[Log Incident]
+    D --> E[Notify AI Oversight Committee]
+    E --> F[Root Cause Analysis]
+    F --> G[Remediation / Model Retraining]
+```
+
 ---
 
 ## 10. Third-Party AI Vendor Risk
@@ -124,6 +162,16 @@ Each class dictates the level of control, explainability, and review required.
 - Due diligence required on all third-party AI solutions
 - Vendors must share model documentation, training sources, and testing results
 - SLAs must include explainability, error limits, retraining schedules, and exit plans
+
+```mermaid
+flowchart TD
+    A[Vendor Discovery] --> B[Compliance Due Diligence]
+    B --> C[Risk Scorecard Evaluation]
+    C --> D{Pass Risk Threshold?}
+    D -->|Yes| E[Negotiate Contract with SLA/Exit Clauses]
+    D -->|No| F[Reject or Require Mitigation]
+    E --> G[Ongoing Audits & Compliance Checks]
+```
 
 ---
 
