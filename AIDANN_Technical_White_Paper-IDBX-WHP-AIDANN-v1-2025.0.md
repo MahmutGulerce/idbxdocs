@@ -72,6 +72,35 @@ AIDANN uses SHAP values and other XAI techniques to generate human-readable expl
 - Reinforcement learning for strategy optimization
 - AI/ML co-pilot interfaces for traders
 
+## 9. Regulatory & Ethical Compliance Considerations
+
+AIDANN has been engineered in alignment with global regulatory expectations for high-risk AI systems:
+
+- **EU AI Act**: Classified as a high-risk system, AIDANN includes:
+  - Risk management and event logging modules
+  - Human-in-the-loop override capability
+  - Transparent documentation and performance monitoring
+
+- **MiFID II**:
+  - All model outputs tied to trade decisions are logged
+  - Audit trails are timestamped and report-ready for regulators
+  - AIDANN is not autonomous; it augments human decision-making
+
+- **GDPR & CCPA**:
+  - No personally identifiable information (PII) is used in training datasets
+  - Users have the right to request insight into AI-driven decisions impacting them
+
+- **FCA & SEC Guidance**:
+  - Models undergo internal testing, validation, and error tolerance analysis
+  - Output is reviewable and explainable by compliance staff
+
+- **Bias & Fairness**:
+  - Training data diversity checks in place
+  - Live bias detection in model serving pipeline
+  - Model drift monitoring to ensure long-term accuracy and ethical consistency
+
+This regulatory-aware design ensures IDBX can scale AIDANN globally while maintaining confidence with institutional clients, auditors, and regulators.
+
 ---
 
 *This document is the intellectual property of IDBX Corporation Ltd. Unauthorized distribution is prohibited.*
