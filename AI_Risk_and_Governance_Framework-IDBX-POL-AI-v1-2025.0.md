@@ -131,7 +131,7 @@ flowchart TD
 flowchart TD
     A[Data Audit for Bias] --> B[Fairness Metrics Evaluation]
     B --> C{Bias Detected?}
-    C -->|Yes| D[Apply Mitigation (e.g. Reweight, Sample, Adjust)]
+    C -->|Yes| D[Apply Mitigation e.g. Reweight, Sample, Adjust]
     D --> E[Retest Model]
     C -->|No| F[Proceed to Deployment]
     E --> F
