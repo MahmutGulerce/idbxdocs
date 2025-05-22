@@ -138,7 +138,7 @@ flowchart TD
 
 The following diagram outlines the staged delivery lifecycle for the IDBX Trading Platform, including development, validation, pilot testing, and scale-up phases.
 
-![Technology Strategy Roadmap](https://github.com/MahmutGulerce/idbxdocs/raw/main/assets/Technology%20Strategy.png)
+![Technology Strategy Roadmap](https://github.com/MahmutGulerce/idbxdocs/raw/main/assets/sdlc.png)
 
 *Figure: IDBX Technology Strategy and Delivery Roadmap*
 
