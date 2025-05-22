@@ -42,8 +42,6 @@ This policy applies to:
 
 - **Compliance by Design**: The platform must natively support compliance with relevant regulations including MiFID II, GDPR, Basel III/IV, and the EU AI Act.
 
-- **High Availability & Scalability**: The platform architecture must maintain 99.99% uptime through elastic, cloud-native, and regionally distributed design.
-
 - **AI Transparency & Accountability**: All decisions made or influenced by AIDANN must be traceable, explainable, and auditable.
 
 - **Infrastructure as Code (IaC)**: All infrastructure changes must be defined, reviewed, and deployed through version-controlled IaC practices.
