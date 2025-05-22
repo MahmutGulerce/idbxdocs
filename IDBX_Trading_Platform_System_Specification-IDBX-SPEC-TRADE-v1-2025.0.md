@@ -134,5 +134,13 @@ flowchart TD
 - Self-service compliance module for institutional clients
 
 ---
+## 11. Platform Delivery Roadmap
 
+The following diagram outlines the staged delivery lifecycle for the IDBX Trading Platform, including development, validation, pilot testing, and scale-up phases.
+
+![Technology Strategy Roadmap](https://github.com/MahmutGulerce/idbxdocs/raw/main/assets/Technology%20Strategy.png)
+
+*Figure: IDBX Technology Strategy and Delivery Roadmap*
+
+---
 *This document is confidential and the property of IDBX Corporation Ltd. Redistribution is strictly prohibited without authorization.*
