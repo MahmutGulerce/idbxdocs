@@ -25,7 +25,7 @@ All IDBX technical documents follow a standardized naming scheme:
 
 ---
 
-## 📂 Contextual Document Categories
+## Contextual Document Categories
 
 ### 1. Platform & Vision
 - **Technology Manifesto**  
@@ -90,7 +90,7 @@ All IDBX technical documents follow a standardized naming scheme:
 
 ---
 
-## 📚 Glossary of Key Terms
+## Glossary of Key Terms
 
 | Term                   | Definition                                                                 |
 |------------------------|----------------------------------------------------------------------------|
