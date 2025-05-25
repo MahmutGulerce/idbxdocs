@@ -1,6 +1,6 @@
 ---
 title: "AI Risk & Governance Framework"
-document_id: "IDBX-POL-AI-v1-2025.0"
+document_id: "IDBX-POL-AI-RISK-v1-2025.0"
 module: "AI"
 version: "v1.0"
 date: "2025-05-21"
@@ -13,7 +13,7 @@ authors: ["Mahmut Gülerce (Global CSTO)"]
 
 | Field         | Value                             |
 |---------------|-----------------------------------|
-| Document ID   | IDBX-POL-AI-v1-2025.0             |
+| Document ID   | IDBX-POL-AI-RISK-v1-2025.0             |
 | Module        | AI                                |
 | Version       | v1.0                              |
 | Date          | 2025-05-21        |
