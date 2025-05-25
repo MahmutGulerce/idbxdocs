@@ -2,7 +2,7 @@ Document Title,Doc Type,Module,Document ID,Doc Type Meaning
 Global Technical Policy,POL,CORE,IDBX-POL-CORE-v1-2025.0,"Policy – defines official standards, practices, and rules."
 Technology Manifesto,MAN,CORE,IDBX-MAN-CORE-v1-2025.0,Manifesto – visionary statement of principles and technical philosophy.
 AIDANN Technical White Paper,WHP,AIDANN,IDBX-WHP-AIDANN-v1-2025.0,White Paper – high-level explanatory document for complex systems or technology.
-AI Risk & Governance Framework,POL,AI,IDBX-POL-AI-v1-2025.0,"Policy – defines official standards, practices, and rules."
+AI Risk & Governance Framework,POL,AI,IDBX-POL-AI-RISK-v1-2025.0,"Policy – defines official standards, practices, and rules."
 AI Ethics & Compliance Policy,POL,AI,IDBX-POL-AI-v1-2025.0,"Policy – defines official standards, practices, and rules."
 IDBX Trading Platform System Specification,SPEC,TRADE,IDBX-SPEC-TRADE-v1-2025.0,Specification – technical details about system components or interfaces.
 API & Integration Suite,SPEC,API,IDBX-SPEC-API-v1-2025.0,Specification – technical details about system components or interfaces.
