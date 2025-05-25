@@ -79,7 +79,7 @@ GET    /v1/ai/signal/{instrument}
   "instrument": "EUR/USD",
   "signal_strength": 0.82,
   "confidence_score": 0.91,
-  "model_version": "aidann-v3.1.2",
+  "model_version": "aidann-v1.0",
   "explanation": "Upward momentum with volatility normalization",
   "regulatory_tag": "AI-Augmented"
 }
