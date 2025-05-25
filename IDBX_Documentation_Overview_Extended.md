@@ -90,6 +90,29 @@ All IDBX technical documents follow a standardized naming scheme:
 
 ---
 
+## Document Index with Links
+
+| Title | Link |
+|-------|------|
+| Technology Manifesto | [Technology_Manifesto-IDBX-MAN-CORE-v1-2025.0.md](Technology_Manifesto-IDBX-MAN-CORE-v1-2025.0.md) |
+| AI-Driven Infrastructure Blueprint | [AI_Driven_Infrastructure_Blueprint-IDBX-ARCH-AI-v1-2025.0.md](AI_Driven_Infrastructure_Blueprint-IDBX-ARCH-AI-v1-2025.0.md) |
+| Trading Platform Specification | [IDBX_Trading_Platform_System_Specification-IDBX-SPEC-TRADE-v1-2025.0.md](IDBX_Trading_Platform_System_Specification-IDBX-SPEC-TRADE-v1-2025.0.md) |
+| API & Integration Suite | [API_Integration_Suite-IDBX-SPEC-API-v1-2025.0.md](API_Integration_Suite-IDBX-SPEC-API-v1-2025.0.md) |
+| AIDANN Technical White Paper | [AIDANN_Technical_White_Paper-IDBX-WHP-AIDANN-v1-2025.0.md](AIDANN_Technical_White_Paper-IDBX-WHP-AIDANN-v1-2025.0.md) |
+| AI Ethics & Compliance Policy | [AI_Ethics_and_Compliance_Policy-IDBX-POL-AI-v1-2025.0.md](AI_Ethics_and_Compliance_Policy-IDBX-POL-AI-v1-2025.0.md) |
+| AI Risk & Governance Framework | [AI_Risk_and_Governance_Framework-IDBX-POL-AI-RISK-v1-2025.0.md](AI_Risk_and_Governance_Framework-IDBX-POL-AI-RISK-v1-2025.0.md) |
+| AI Compliance Register | [AI_Compliance_Register-IDBX-REG-AI-v1-2025.0.md](AI_Compliance_Register-IDBX-REG-AI-v1-2025.0.md) |
+| Data Governance & Privacy Framework | [Data_Governance_and_Privacy_Framework-IDBX-POL-DATA-v1-2025.0.md](Data_Governance_and_Privacy_Framework-IDBX-POL-DATA-v1-2025.0.md) |
+| Data Localization Policy | [Data_Localization_and_Cross_Border_Transfer_Policy-IDBX-POL-DATA-v1-2025.0.md](Data_Localization_and_Cross_Border_Transfer_Policy-IDBX-POL-DATA-v1-2025.0.md) |
+| Business Continuity & DR Plan | [Business_Continuity_and_Disaster_Recovery_Plan-IDBX-PLAN-CORE-v1-2025.0.md](Business_Continuity_and_Disaster_Recovery_Plan-IDBX-PLAN-CORE-v1-2025.0.md) |
+| Cybersecurity Incident Response Plan | [Cybersecurity_Incident_Response_Plan-IDBX-PLAN-SEC-v1-2025.0.md](Cybersecurity_Incident_Response_Plan-IDBX-PLAN-SEC-v1-2025.0.md) |
+| Trade Lifecycle Management Policy | [Trade_Lifecycle_Management_Policy-IDBX-POL-TRADE-v1-2025.0.md](Trade_Lifecycle_Management_Policy-IDBX-POL-TRADE-v1-2025.0.md) |
+| Third-Party AI Vendor Risk Policy | [Third_Party_AI_Vendor_Risk_Policy-IDBX-POL-VENDOR-v1-2025.0.md](Third_Party_AI_Vendor_Risk_Policy-IDBX-POL-VENDOR-v1-2025.0.md) |
+| Regulatory Mapping Matrix | [Regulatory_Mapping_Matrix-IDBX-REG-MAP-v1-2025.0.md](Regulatory_Mapping_Matrix-IDBX-REG-MAP-v1-2025.0.md) |
+
+...
+
+
 ## Glossary of Key Terms
 
 | Term                   | Definition                                                                 |
