@@ -71,6 +71,9 @@ This policy applies to:
 - Data retention policies must meet or exceed a 7-year archival requirement for regulatory traceability.
 - Anonymization procedures must be applied to any shared or non-production data sets.
 
+**Clarification**: While data retention for regulatory compliance is defined as 5–7 years depending on jurisdiction, archived data must remain in a format that is technically readable for at least 10 years. This does not imply data must be retained for the entire 10 years if deletion obligations apply earlier.
+
+
 ## 6. Incident Response
 
 - All incidents must follow the protocol defined in the IDBX Incident Response Plan (IDBX-PLAN-SEC-v1-2025.0).

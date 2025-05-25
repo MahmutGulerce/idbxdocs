@@ -56,6 +56,8 @@ Covers all data handled by IDBX:
 - **Purpose Limitation**: Data must not be repurposed beyond original intent without reauthorization.
 - **Retention**: Data is retained per applicable regulation (e.g., 5–7 years for trade logs) then securely deleted.
 
+**Clarification**: While data retention for regulatory compliance is defined as 5–7 years depending on jurisdiction, archived data must remain in a format that is technically readable for at least 10 years. This does not imply data must be retained for the entire 10 years if deletion obligations apply earlier.
+
 ---
 
 ## 5. Data Ownership & Stewardship
