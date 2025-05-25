@@ -1,6 +1,6 @@
 # IDBX Technical Documentation Overview
 
-## 📘 File Structure and Naming Convention
+## File Structure and Naming Convention
 
 All IDBX technical documents follow a standardized naming scheme:
 
