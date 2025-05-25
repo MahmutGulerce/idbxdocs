@@ -56,7 +56,7 @@ Covers all data handled by IDBX:
 - **Purpose Limitation**: Data must not be repurposed beyond original intent without reauthorization.
 - **Retention**: Data is retained per applicable regulation (e.g., 5–7 years for trade logs) then securely deleted.
 
-“Platform-level RTO/RPO targets (e.g., in Trading Platform Spec) are overarching availability commitments. Component-level values (e.g., for Trading Engine or AIDANN) represent subsystem recovery expectations and may vary accordingly. Where multiple targets apply, the stricter (lower) value governs external service commitments.”
+- Platform-level RTO/RPO targets (e.g., in Trading Platform Spec) are overarching availability commitments. Component-level values (e.g., for Trading Engine or AIDANN) represent subsystem recovery expectations and may vary accordingly. Where multiple targets apply, the stricter (lower) value governs external service commitments.
 ---
 
 ## 5. Data Ownership & Stewardship
