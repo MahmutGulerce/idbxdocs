@@ -45,7 +45,7 @@ Each registered AI system must be assessed and logged for:
 
 | Model ID | Use Case              | Risk Level | Compliance Tags            | Last Review | Owner         | Notes |
 |----------|------------------------|------------|-----------------------------|-------------|---------------|-------|
-| AIDANN-v3.1 | Trade signal advisory | High       | GDPR, MiFID II, AI-Augmented| 2025-03-01  | ML Ops Team   | Fully explainable |
+| AIDANN-v1.0 | Trade signal advisory | High       | GDPR, MiFID II, AI-Augmented| 2025-03-01  | ML Ops Team   | Fully explainable |
 | COMPLY-AI | Regulatory tagging     | Medium     | GDPR, Internal Use          | 2025-02-12  | Compliance     | Semi-automated review |
 | AUTO-ROUTER | Smart order routing  | High       | EU AI Act, RTS27            | 2025-01-30  | Algo Trade Team| Model retrained Q1 |
 
