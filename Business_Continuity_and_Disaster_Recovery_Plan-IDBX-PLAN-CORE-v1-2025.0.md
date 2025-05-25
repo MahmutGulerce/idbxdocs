@@ -66,6 +66,8 @@ Applies to:
 | AI (AIDANN) Infrastructure| 1 hour              | 15 minutes                 |
 | Internal Operations       | 4 hours             | 24 hours                   |
 
+* Platform-level RTO/RPO targets (e.g., in Trading Platform Spec) are overarching availability commitments. Component-level values (e.g., for Trading Engine or AIDANN) represent subsystem recovery expectations and may vary accordingly. Where multiple targets apply, the stricter (lower) value governs external service commitments.
+
 ---
 
 ## 6. Business Continuity Strategy
